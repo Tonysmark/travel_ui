@@ -4,13 +4,13 @@
 
 实现截图：
 
-![home](assets\screen_shots\home.png)
+![home](assets/screen_shots/home.png)
 
-![info](assets\screen_shots\info.png)
+![info](assets/screen_shots/info.png)
 
 Gif :
 
-![ui_gif](assets\screen_shots\travel_ui.gif)
+![ui_gif](assets/screen_shots/travel_ui.gif)
 
 ## trick
 
